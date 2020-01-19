@@ -4,7 +4,7 @@ My New Flutter Application that has 2 pages
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 A few resources i used to get started:
 
